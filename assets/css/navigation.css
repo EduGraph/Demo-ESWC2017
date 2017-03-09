@@ -1,0 +1,12 @@
+#path387, #path169, #path35 {
+    cursor: pointer;
+}
+
+
+#path387:hover, #path169:hover {
+    opacity: 0.3;
+
+    fill: black!important;
+}
+
+
