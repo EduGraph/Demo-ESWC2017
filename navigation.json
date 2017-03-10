@@ -1,0 +1,42 @@
+{
+  "path169": {
+    "title": "Integration & Orchestration",
+    "description": "Short description",
+    "usecase": "Use case demo",
+    "image": "images/placeholder.jpg",
+    "links": [
+      {"label": "Vorschau", "url": "#"},
+      {"label": "GitHub", "url": "#"}
+    ]
+  },
+  "path35": {
+    "title": "Integration & Orchestration",
+    "description": "Short description",
+    "usecase": "Use case demo",
+    "image": "images/placeholder.jpg",
+    "links": [
+      {"label": "Vorschau", "url": "#"},
+      {"label": "GitHub", "url": "#"}
+    ]
+  },
+  "path387": {
+    "title": "Integration & Orchestration",
+    "description": "Short description",
+    "usecase": "Use case demo",
+    "image": "images/placeholder.jpg",
+    "links": [
+      {"label": "Demo", "url": "#"},
+      {"label": "GitHub", "url": "#"}
+    ]
+  },
+  "path345": {
+    "title": "Integration & Orchestration",
+    "description": "Short description",
+    "usecase": "Use case demo",
+    "image": "images/placeholder.jpg",
+    "links": [
+      {"label": "Vorschau", "url": "#"},
+      {"label": "GitHub", "url": "#"}
+    ]
+  }
+}

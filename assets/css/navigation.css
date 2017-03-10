@@ -1,3 +1,4 @@
+/*
 #path387, #path169, #path35 {
     cursor: pointer;
 }
@@ -9,4 +10,16 @@
     fill: black!important;
 }
 
+*/
+
+
+.architecture-link {
+    cursor: pointer;
+}
+
+.architecture-link:hover {
+    opacity: 0.3;
+    fill: black!important;
+
+}
 
