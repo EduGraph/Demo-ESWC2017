@@ -13,68 +13,99 @@
     "screenshots": [
       {
         "src": "images/StudyFinder_ScrSh1.png",
-        "title": "#"
+        "title": "Frontpage before editing"
       },
       {
         "src": "images/StudyFinder_ScrSh2.png",
-        "title": "#"
+        "title": "Sourcecode before editing"
       },
       {
         "src": "images/StudyFinder_ScrSh3.png",
-        "title": "#"
+        "title": "Backend before editing"
       },
       {
         "src": "images/StudyFinder_ScrSh4.png",
-        "title": "#"
+        "title": "Backend after editing"
+      },
+      {
+        "src": "images/StudyFinder_ScrSh5.png",
+        "title": "Frontpage after editing"
+      },
+      {
+        "src": "images/StudyFinder_ScrSh6.png",
+        "title": "Sourcecode after editing"
       }
     ]
   },
 
   "path35": {
-    "title": "Integration & Orchestration",
-    "description": "Short description",
-    "usecase": "Use case demo",
-    "image": "images/placeholder.jpg",
+    "title": "Unstructured Data from Module Catalogs",
+    "description": "The Analysis Server processes unstructured module catalogs based on metadata. First the catalog is cut into pieces representing single modules. After indexing and calculations based on keyword lists and a parametrized formula, pillar shares are provided.",
+    "image": "images/Solr.png",
     "links": [
       {
-        "label": "Vorschau",
-        "url": "#"
+        "label": "Example Module Catalog",
+        "url": "https://wirtschaft.th-brandenburg.de/fileadmin/user_upload/fb-wirtschaft/Studiengaenge/WI/Dokumente/WI_BA_Modulkatalog-Juli2014-v1.pdf"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "images/AnalysisServer_ScrSh1.png",
+        "title": "Analysis Server control panel"
       },
       {
-        "label": "GitHub",
-        "url": "#"
+        "src": "images/AnalysisServer_ScrSh2.png",
+        "title": "Rest API response with pillar share data"
       }
     ]
   },
   "path387": {
-    "title": "Integration & Orchestration",
-    "description": "Short description",
-    "usecase": "Use case demo",
-    "image": "images/placeholder.jpg",
+    "title": "Integration and Orchestration",
+    "description": "All tasks of data processing in EduGraph are controlled by the process engine. This comprises the overall time-based process control, different service calls, exception handlings etc. The process is modeled and visualized in BPMN.",
+    "usecase": "Component Interchange Demo 1",
+    "image": "images/Camunda.png",
     "links": [
       {
-        "label": "Demo",
-        "url": "#"
+        "label": "Process Viewer",
+        "url": "https://edugraph.github.io/EduGraph-Process-Viewer/"
+      }
+    ],
+    "screenshots": [
+      {
+        "src": "images/StudyFinder_ScrSh1.png",
+        "title": "Frontpage before editing"
       },
       {
-        "label": "GitHub",
-        "url": "#"
+        "src": "images/StudyFinder_ScrSh2.png",
+        "title": "Sourcecode before editing"
+      },
+      {
+        "src": "images/StudyFinder_ScrSh3.png",
+        "title": "Backend before editing"
+      },
+      {
+        "src": "images/StudyFinder_ScrSh4.png",
+        "title": "Backend after editing"
+      },
+      {
+        "src": "images/StudyFinder_ScrSh5.png",
+        "title": "Frontpage after editing"
+      },
+      {
+        "src": "images/StudyFinder_ScrSh6.png",
+        "title": "Sourcecode after editing"
       }
     ]
   },
   "path345": {
-    "title": "Integration & Orchestration",
-    "description": "Short description",
-    "usecase": "Use case demo",
-    "image": "images/placeholder.jpg",
+    "title": "Integration and Orchestration",
+    "description": "All tasks of data processing in EduGraph are controlled by the process engine. This comprises the overall time-based process control, different service calls, exception handlings etc. The process is modeled and visualized in BPMN.",
+    "usecase": "Component Interchange Demo 1",
+    "image": "images/Camunda.png",
     "links": [
       {
-        "label": "Vorschau",
-        "url": "#"
-      },
-      {
-        "label": "GitHub",
-        "url": "#"
+        "label": "Process Viewer",
+        "url": "https://edugraph.github.io/EduGraph-Process-Viewer/"
       }
     ]
   }
