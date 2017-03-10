@@ -12,6 +12,9 @@ $( document ).ready(function() {
 
     function openInfoCard(element){
         var mappingDetails = element;
+
+        $("#section-technology").empty();
+
         $("#card-detail-title").text(mappingDetails['title']);
         $("#card-detail-text").text(mappingDetails['description']);
         $("#card-detail-badge").text(mappingDetails['usecase']);
@@ -20,6 +23,12 @@ $( document ).ready(function() {
         mappingDetails['links'].forEach(function(e,i){
             $("#card-detail-links").append('<a href="'+e['url']+'" target="_blank" class="card-link">'+e['label']+'</a>');
         });
+
+        $("#card-detail-technology").empty();
+
+        /*mappingDetails['technologies'].forEach(function(e,i){
+            $("#section-technology").append('<a href="'+e['url']+'" target="_blank" class="card-link">'+e['label']+'</a>');
+        });*/
     }
 
 });

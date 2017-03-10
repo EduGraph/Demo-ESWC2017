@@ -1,12 +1,35 @@
 {
   "path169": {
-    "title": "Integration & Orchestration",
-    "description": "Short description",
-    "usecase": "Use case demo",
-    "image": "images/placeholder.jpg",
+    "title": "Structured Data from CMS",
+    "description": "The StudyFinder Extension allows Web editors in HEIs to produce structured data as part of the website source code while editing study course data via the ordinary TYPO3 Backend. No additional effort or competences are needed.",
+    "usecase": "Use Case Demo 2",
+    "image": "images/typo3logo.png",
     "links": [
-      {"label": "Vorschau", "url": "#"},
-      {"label": "GitHub", "url": "#"}
+      {
+        "label": "Screenshots",
+        "images": [
+          {
+            "src": "#",
+            "title": "#"
+          },
+          {
+            "src": "#",
+            "title": "#"
+          },
+          {
+            "src": "#",
+            "title": "#"
+          },
+          {
+            "src": "#",
+            "title": "#"
+          }
+        ]
+      },
+      {
+        "label": "Direct Access",
+        "url": "https://wwwtest.th-brandenburg.de/sb-intern-referenz-nicht-aendern/studyfinder-bsc-sg/details/?tx_in2studyfinder_pi2%5BstudyCourse%5D=1&tx_in2studyfinder_pi2%5Baction%5D=detail&tx_in2studyfinder_pi2%5Bcontroller%5D=StudyCourse&cHash=e82258963e9385c099f92839d65045db"
+      }
     ]
   },
   "path35": {
@@ -15,8 +38,14 @@
     "usecase": "Use case demo",
     "image": "images/placeholder.jpg",
     "links": [
-      {"label": "Vorschau", "url": "#"},
-      {"label": "GitHub", "url": "#"}
+      {
+        "label": "Vorschau",
+        "url": "#"
+      },
+      {
+        "label": "GitHub",
+        "url": "#"
+      }
     ]
   },
   "path387": {
@@ -25,8 +54,14 @@
     "usecase": "Use case demo",
     "image": "images/placeholder.jpg",
     "links": [
-      {"label": "Demo", "url": "#"},
-      {"label": "GitHub", "url": "#"}
+      {
+        "label": "Demo",
+        "url": "#"
+      },
+      {
+        "label": "GitHub",
+        "url": "#"
+      }
     ]
   },
   "path345": {
@@ -35,8 +70,14 @@
     "usecase": "Use case demo",
     "image": "images/placeholder.jpg",
     "links": [
-      {"label": "Vorschau", "url": "#"},
-      {"label": "GitHub", "url": "#"}
+      {
+        "label": "Vorschau",
+        "url": "#"
+      },
+      {
+        "label": "GitHub",
+        "url": "#"
+      }
     ]
   }
 }

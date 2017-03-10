@@ -28,11 +28,11 @@
      inkscape:window-height="994"
      id="namedview3801"
      showgrid="true"
-     inkscape:zoom="0.90074525"
-     inkscape:cx="738.23662"
-     inkscape:cy="334.32321"
-     inkscape:window-x="1343"
-     inkscape:window-y="1"
+     inkscape:zoom="1.2738462"
+     inkscape:cx="164.28431"
+     inkscape:cy="381.98569"
+     inkscape:window-x="1349"
+     inkscape:window-y="3"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg403">
     <inkscape:grid
@@ -135,62 +135,58 @@
      id="structuredData"
      inkscape:label="#g3805"
      transform="translate(-47.018495,2.4718078)">
-    <g
-       id="structureData"
-       inkscape:label="#g3823">
-      <path
-         id="path35"
-         d="m 48.630308,117.33195 0,119.81474 166.587342,0 0,-119.81474 -166.587342,0 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path37"
-         d="m 48.630308,114.00137 166.587342,0 0,119.81474 -166.587342,0 z"
-         style="fill:none;stroke:#000000;stroke-width:0.96108079px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         inkscape:connector-curvature="0" />
-      <text
-         id="text43"
-         y="173.20622"
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 48.630308,117.33195 0,119.81474 166.587342,0 0,-119.81474 -166.587342,0 z"
+       id="path35" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.96108079px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 48.630308,114.00137 166.587342,0 0,119.81474 -166.587342,0 z"
+       id="path37" />
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="68.757248"
+       y="173.20622"
+       id="text43"><tspan
          x="68.757248"
-         style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan41"
-           y="173.20622"
-           x="68.757248"><tspan
-             id="tspan39"
-             style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;font-family:Arial;fill:#000000"
-             dy="0"
-             dx="0">Structured Data</tspan></tspan></text>
-      <text
-         id="text49"
-         y="194.83055"
+         y="173.20622"
+         id="tspan41"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;font-family:Arial;fill:#000000"
+           id="tspan39">Structured Data</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="91.502831"
+       y="194.83055"
+       id="text49"><tspan
          x="91.502831"
-         style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan47"
-           y="194.83055"
-           x="91.502831"><tspan
-             id="tspan45"
-             style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;font-family:Arial;fill:#000000"
-             dy="0"
-             dx="0">from</tspan></tspan></text>
-      <text
-         id="text55"
          y="194.83055"
+         id="tspan47"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;font-family:Arial;fill:#000000"
+           id="tspan45">from</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="132.50894"
+       y="194.83055"
+       id="text55"><tspan
          x="132.50894"
-         style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;line-height:125%;font-family:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-         xml:space="preserve"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan53"
-           y="194.83055"
-           x="132.50894"><tspan
-             id="tspan51"
-             style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;font-family:Arial;fill:#000000"
-             dy="0"
-             dx="0">CMS</tspan></tspan></text>
-    </g>
+         y="194.83055"
+         id="tspan53"><tspan
+           dx="0"
+           dy="0"
+           style="font-style:normal;font-variant:normal;font-weight:400;font-size:18.125px;font-family:Arial;fill:#000000"
+           id="tspan51">CMS</tspan></tspan></text>
   </g>
   <g
      id="DBpedia"
