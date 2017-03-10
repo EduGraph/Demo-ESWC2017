@@ -99,7 +99,7 @@
 
   "path345": {
     "title": "LinkedData API",
-    "description": "Builds Web APIs using SPARQL queries stored in GitHub repositories",
+    "description": "To address the difficulties of many Web developers using directly Semantic Web technologies, grlc technology can be used. It automates the buildig of Web APIs using SPARQL queries stored in GitHub repositories. This enables a broad reuse of EduGraph data by different kind of applications.",
     "technologies":[
       {"src": "images/grlc_logo.png", "name": "grlc"}
     ],
@@ -113,7 +113,7 @@
 
   "path387": {
     "title": "EduGraph Preview",
-    "description": "text",
+    "description": "The EduGraph Preview Tool gives Web administrators of HEIs the opportunity to check the implications of a participation or of a data change in advance. The tool is technically based on the systems’ own infrastructure and uses for visualizing elements of the Web application StudyScout.",
     "technologies":[
       {"src": "images/Camunda.png", "name": "Camunda BPM"},
       {"src": "images/Rdf.png", "name": "RDF Translate"},
@@ -133,7 +133,7 @@
 
   "path67": {
     "title": "Decision Support",
-    "description": "text",
+    "description": "The Web application StudyScout is mainly built to visualize the shares of focus areas and according job profiles of a degree program. It is prototypically implemented for German programs in Information Systems.",
     "technologies":[
       {"src": "images/angular.png", "name": "AngurlarJS"}
     ],
