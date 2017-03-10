@@ -65,7 +65,7 @@
   "path171": {
     "title": "Integration and Orchestration",
     "description": "All tasks of data processing in EduGraph are controlled by the process engine. This comprises the overall time-based process control, different service calls, exception handlings etc. The process is modeled and visualized in BPMN.",
-    "usecase": "Component Interchange Demo 1",
+    "usecase": "Component Interaction Demo 1",
     "technologies":[
      {"src": "images/camunda.png", "name": "Camunda BPM"},
      {"src": "images/Rdf.png", "name": "RDF Translate"},
