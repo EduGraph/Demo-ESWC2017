@@ -113,7 +113,7 @@
 
   "path387": {
     "title": "EduGraph Preview",
-    "description": "The EduGraph Preview Tool gives Web administrators of HEIs the opportunity to check the implications of a participation or of a data change in advance. The tool is technically based on the systems’ own infrastructure and uses for visualizing elements of the Web application StudyScout.",
+    "description": "The EduGraph Preview Tool gives Web administrators of HEIs the opportunity to check the implications of a participation or of a data change in advance. The tool is technically based on the systems’ own infrastructure and uses elements of the Web application StudyScout.",
     "technologies":[
       {"src": "images/camunda.png", "name": "Camunda BPM"},
       {"src": "images/Rdf.png", "name": "RDF Translate"},
