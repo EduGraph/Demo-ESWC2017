@@ -1,5 +1,5 @@
 {
-  "path169": {
+  "path35": {
     "title": "Structured Data from CMS",
     "description": "The StudyFinder Extension allows Web editors in HEIs to produce structured data as part of the website source code while editing study course data via the ordinary TYPO3 Backend. No additional effort or competences are needed.",
     "usecase": "Use Case Demo 2",
@@ -38,7 +38,7 @@
       }
     ]
   },
-  "path170":{
+  "path129":{
     "title": "Unstructured Data from Module Catalogs",
     "description": "The Analysis Server processes unstructured module catalogs based on metadata. First the catalog is cut into pieces representing single modules. After indexing and calculations based on keyword lists and a parametrized formula, pillar shares are provided.",
     "technologies":[
@@ -78,7 +78,7 @@
       }
     ]
   },
-  "path172": {
+  "path185": {
     "title": "Schema Information & Documentation Portal",
     "description": "The backbone of the EduGraph system is a collaboratively used schema, mostly based on elements from schema.org. Actually there is an open infosite visualizng the current state of schema development and some additional information about entity types, relations, correspondig ideas, publications, contacts etc.",
     "technologies":[
