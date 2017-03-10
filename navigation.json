@@ -108,5 +108,16 @@
         "url": "https://edugraph.github.io/EduGraph-Process-Viewer/"
       }
     ]
+  },
+  "path172": {
+    "title": "Schema Information & Documentation Portal",
+    "description": "The backbone of the EduGraph system is a collaboratively used schema, mostly based on elements from schema.org. Actually there is an open infosite visualizng the current state of schema development and some additional information about entity types, relations, correspondig ideas, publications, contacts etc.",
+    "image": "images/schemaOrg.png",
+    "links": [
+      {
+        "label": "Process Viewer",
+        "url": "https://edugraph.github.io/EduGraph-Process-Viewer/"
+      }
+    ]
   }
 }
