@@ -3,7 +3,8 @@
     "title": "Structured Data from CMS",
     "description": "The StudyFinder Extension allows Web editors in HEIs to produce structured data as part of the website source code while editing study course data via the ordinary TYPO3 Backend. No additional effort or competences are needed.",
     "usecase": "Use Case Demo 2",
-    "image": "images/typo3logo.png",
+    "technologies":[
+     {"src": "images/typo3logo.png", "name": "TYPO3"}],
     "links": [
       {
         "label": "Direct Access",
@@ -37,11 +38,13 @@
       }
     ]
   },
-
-  "path35": {
+  "path170":{
     "title": "Unstructured Data from Module Catalogs",
     "description": "The Analysis Server processes unstructured module catalogs based on metadata. First the catalog is cut into pieces representing single modules. After indexing and calculations based on keyword lists and a parametrized formula, pillar shares are provided.",
-    "image": "images/Solr.png",
+    "technologies":[
+     {"src": "images/Solr.png", "name": "Apache Solr"},
+     {"src": "images/MongoDB.png", "name": "Mongo DB"}
+   ],
     "links": [
       {
         "label": "Example Module Catalog",
@@ -59,49 +62,15 @@
       }
     ]
   },
-  "path387": {
+  "path171": {
     "title": "Integration and Orchestration",
     "description": "All tasks of data processing in EduGraph are controlled by the process engine. This comprises the overall time-based process control, different service calls, exception handlings etc. The process is modeled and visualized in BPMN.",
     "usecase": "Component Interchange Demo 1",
-    "image": "images/Camunda.png",
-    "links": [
-      {
-        "label": "Process Viewer",
-        "url": "https://edugraph.github.io/EduGraph-Process-Viewer/"
-      }
-    ],
-    "screenshots": [
-      {
-        "src": "images/StudyFinder_ScrSh1.png",
-        "title": "Frontpage before editing"
-      },
-      {
-        "src": "images/StudyFinder_ScrSh2.png",
-        "title": "Sourcecode before editing"
-      },
-      {
-        "src": "images/StudyFinder_ScrSh3.png",
-        "title": "Backend before editing"
-      },
-      {
-        "src": "images/StudyFinder_ScrSh4.png",
-        "title": "Backend after editing"
-      },
-      {
-        "src": "images/StudyFinder_ScrSh5.png",
-        "title": "Frontpage after editing"
-      },
-      {
-        "src": "images/StudyFinder_ScrSh6.png",
-        "title": "Sourcecode after editing"
-      }
-    ]
-  },
-  "path345": {
-    "title": "Integration and Orchestration",
-    "description": "All tasks of data processing in EduGraph are controlled by the process engine. This comprises the overall time-based process control, different service calls, exception handlings etc. The process is modeled and visualized in BPMN.",
-    "usecase": "Component Interchange Demo 1",
-    "image": "images/Camunda.png",
+    "technologies":[
+     {"src": "images/Camunda.png", "name": "Camunda BPM"},
+     {"src": "images/Rdf.png", "name": "RDF Translate"},
+     {"src": "images/Sparql.png", "name": "SPARQL"}
+   ],
     "links": [
       {
         "label": "Process Viewer",
@@ -112,7 +81,9 @@
   "path172": {
     "title": "Schema Information & Documentation Portal",
     "description": "The backbone of the EduGraph system is a collaboratively used schema, mostly based on elements from schema.org. Actually there is an open infosite visualizng the current state of schema development and some additional information about entity types, relations, correspondig ideas, publications, contacts etc.",
-    "image": "images/schemaOrg.png",
+    "technologies":[
+     {"src": "images/schemaOrg.png", "name": "schema.org"}
+   ],
     "links": [
       {
         "label": "Process Viewer",
