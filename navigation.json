@@ -86,8 +86,65 @@
    ],
     "links": [
       {
-        "label": "Process Viewer",
-        "url": "https://edugraph.github.io/EduGraph-Process-Viewer/"
+        "label": "Schema Documentation",
+        "url": "https://edugraph.github.io/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/EduGraph/bise-ontology"
+      }
+
+    ]
+  },
+
+  "path345": {
+    "title": "LinkedData API",
+    "description": "Builds Web APIs using SPARQL queries stored in GitHub repositories",
+    "technologies":[
+      {"src": "images/grlc_logo.png", "name": "grlc"}
+    ],
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/CLARIAH/grlc"
+      }
+    ]
+  },
+
+  "path387": {
+    "title": "EduGraph Preview",
+    "description": "text",
+    "technologies":[
+      {"src": "images/Camunda.png", "name": "Camunda BPM"},
+      {"src": "images/Rdf.png", "name": "RDF Translate"},
+      {"src": "images/Sparql.png", "name": "SPARQL"}
+    ],
+    "links": [
+      {
+        "label": "Demo",
+        "url": "https://edugraph.github.io/EduGraph-Preview"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/EduGraph/EduGraph-Preview"
+      }
+    ]
+  },
+
+  "path67": {
+    "title": "Decision Support",
+    "description": "text",
+    "technologies":[
+      {"src": "images/angular.png", "name": "AngurlarJS"}
+    ],
+    "links": [
+      {
+        "label": "Demo",
+        "url": "https://bmake.th-brandenburg.de/demos/edugraph/app"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/EduGraph/StudySearch-WebApp"
       }
     ]
   }
