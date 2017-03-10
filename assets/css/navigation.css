@@ -1,9 +1,16 @@
 .architecture-link {
     cursor: pointer;
+    opacity: 0.1;
+    fill: green !important
+}
+
+.architecture-link.active {
+    opacity: 0.3;
+    fill: black !important;
 }
 
 .architecture-link:hover {
     opacity: 0.3;
-    fill: black!important;
+    fill: black !important;
 }
 

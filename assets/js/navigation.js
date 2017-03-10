@@ -5,6 +5,8 @@ $( document ).ready(function() {
             $('#'+key).addClass('architecture-link');
             $('#'+key).on( "click", function() {
                 openInfoCard(value);
+                $(".architecture-link").removeClass('active');
+                $(this).addClass('active');
             });
         });
 
@@ -60,9 +62,6 @@ $( document ).ready(function() {
                         loopAtEnd: true // true will return to the first image after the last image is reached
                     });
             } );
-
-            console.log(screenshots);
-
         }
 
         $("#card-detail-technologies").empty();
