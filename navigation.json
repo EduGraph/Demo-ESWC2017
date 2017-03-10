@@ -135,7 +135,10 @@
     "title": "Decision Support",
     "description": "The Web application StudyScout is mainly built to visualize the shares of focus areas and according job profiles of a degree program. It is prototypically implemented for German programs in Information Systems.",
     "technologies":[
-      {"src": "images/angular.png", "name": "AngurlarJS"}
+      {"src": "images/angular.png", "name": "AngurlarJS"},
+      {"src": "images/html5.png", "name": "HTML5"},
+      {"src": "images/css3.png", "name": "CSS3"},
+      {"src": "images/leaflet.png", "name": "leaflet"}
     ],
     "links": [
       {
