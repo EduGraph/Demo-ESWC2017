@@ -1,24 +1,16 @@
 $( document ).ready(function() {
 
-
     $.getJSON( "navigation.json", function( data ) {
-
         $.each(data, function( key, value ) {
-
             $('#'+key).addClass('architecture-link');
-
             $('#'+key).on( "click", function() {
                 openInfoCard(value);
             });
-
-            console.log(value.title);
         });
 
     });
 
     function openInfoCard(element){
-        var identificator = element;
-
         var mappingDetails = element;
         $("#card-detail-title").text(mappingDetails['title']);
         $("#card-detail-text").text(mappingDetails['description']);
@@ -29,5 +21,6 @@ $( document ).ready(function() {
             $("#card-detail-links").append('<a href="'+e['url']+'" target="_blank" class="card-link">'+e['label']+'</a>');
         });
     }
+
 });
 
