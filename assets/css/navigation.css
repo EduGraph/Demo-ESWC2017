@@ -1,7 +1,7 @@
 .architecture-link {
     cursor: pointer;
     opacity: 0.1;
-    fill: green !important
+    fill: red !important
 }
 
 .architecture-link.active {
