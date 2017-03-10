@@ -17,8 +17,18 @@ $( document ).ready(function() {
 
         $("#card-detail-title").text(mappingDetails['title']);
         $("#card-detail-text").text(mappingDetails['description']);
-        $("#card-detail-badge").text(mappingDetails['usecase']);
-        $("#card-detail-image").attr("src", mappingDetails['image']);
+
+        if(mappingDetails.hasOwnProperty('usecase')){
+            $("#card-detail-badge").show();
+            $("#card-detail-badge").text(mappingDetails['usecase']);
+        }
+        else{
+            $("#card-detail-badge").hide();
+        }
+
+
+        $("#card-detail-image").empty();
+        //$("#card-detail-image img").attr("src", mappingDetails['image']);
 
 
         $("#card-detail-links").empty();

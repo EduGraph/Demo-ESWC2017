@@ -2,6 +2,11 @@
     font-size: 13px;
 }
 
+.demo-title{
+    background-color:rgb(76,175,80)!important;
+    border-radius:0;
+}
+
 /*.card {
     background: #fff;
     border-radius: 2px;
@@ -144,6 +149,13 @@
 .category-badge li:hover {
     color: #fff;
     text-decoration: none;
+}
+
+.info-card{
+    height:450px;
+    /*background-color:rgb(76,175,80)!important;*/
+    border-radius:0;
+    border:0;
 }
 
 #card-detail-technologies img {
