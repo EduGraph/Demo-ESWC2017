@@ -67,7 +67,7 @@ $( document ).ready(function() {
         $("#card-detail-technologies").empty();
         if(mappingDetails.hasOwnProperty('technologies')){
             mappingDetails['technologies'].forEach(function(e,i){
-                $("#section-technology").append('<img src="'+e.src+'" alt="'+e.name+'"/>');
+                $("#card-detail-technologies").append('<img src="'+e.src+'" alt="'+e.name+'"/>');
             });
         }
     }
