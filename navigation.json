@@ -65,7 +65,7 @@
   "path171": {
     "title": "Integration and Orchestration",
     "description": "All tasks of data processing in EduGraph are controlled by the process engine. This comprises the overall time-based process control, different service calls, exception handlings etc. The process is modeled and visualized in BPMN.",
-    "usecase": "Component Interchange Demo 1",
+    "usecase": "Component Interaction Demo 1",
     "technologies":[
      {"src": "images/camunda.png", "name": "Camunda BPM"},
      {"src": "images/Rdf.png", "name": "RDF Translate"},
@@ -114,6 +114,7 @@
   "path387": {
     "title": "EduGraph Preview",
     "description": "The EduGraph Preview Tool gives Web administrators of HEIs the opportunity to check the implications of a participation or of a data change in advance. The tool is technically based on the systems’ own infrastructure and uses elements of the Web application StudyScout.",
+    "usecase": "Use Case Demo 3",
     "technologies":[
       {"src": "images/camunda.png", "name": "Camunda BPM"},
       {"src": "images/Rdf.png", "name": "RDF Translate"},
@@ -134,6 +135,7 @@
   "path67": {
     "title": "Decision Support",
     "description": "The Web application StudyScout is mainly built to visualize the shares of focus areas and according job profiles of a degree program. It is prototypically implemented for German programs in Information Systems.",
+    "usecase": "Use Case Demo 1",
     "technologies":[
       {"src": "images/Angular.png", "name": "AngurlarJS"},
       {"src": "images/html5.png", "name": "HTML5"},
