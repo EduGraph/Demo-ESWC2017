@@ -5,12 +5,6 @@
     "usecase": "Use Case Demo 2",
     "technologies":[
      {"src": "images/typo3logo.png", "name": "TYPO3"}],
-    "links": [
-      {
-        "label": "Direct Access",
-        "url": "https://wwwtest.th-brandenburg.de/sb-intern-referenz-nicht-aendern/studyfinder-bsc-sg/details/?tx_in2studyfinder_pi2%5BstudyCourse%5D=1&tx_in2studyfinder_pi2%5Baction%5D=detail&tx_in2studyfinder_pi2%5Bcontroller%5D=StudyCourse&cHash=e82258963e9385c099f92839d65045db"
-      }
-    ],
     "screenshots": [
       {
         "src": "images/StudyFinder_ScrSh1.png",
