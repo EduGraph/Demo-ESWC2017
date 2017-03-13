@@ -5,6 +5,12 @@
     "usecase": "Use Case Demo 2",
     "technologies":[
      {"src": "images/typo3logo.png", "name": "TYPO3"}],
+    "links": [
+      {
+        "label": "Demo site",
+        "url": "http://t3-edugraph-demo.kreideweiss.info/index.php?id=39&tx_in2studyfinder_pi2%5BstudyCourse%5D=1&tx_in2studyfinder_pi2%5Baction%5D=detail&tx_in2studyfinder_pi2%5Bcontroller%5D=StudyCourse&cHash=eed7f829517b3121bf36d272bbcc001a"
+      }
+    ],
     "screenshots": [
       {
         "src": "images/StudyFinder_ScrSh1.png",
