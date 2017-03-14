@@ -105,8 +105,8 @@
     ],
     "links": [
       {
-        "label": "GitHub",
-        "url": "https://github.com/CLARIAH/grlc"
+        "label": "SPARQL Queries",
+        "url": "https://github.com/EduGraph/EduGraph-Queries"
       }
     ]
   },
