@@ -105,9 +105,14 @@
     ],
     "links": [
       {
+        "label": "API Doc",
+        "url": "http://grlc.io/api/EduGraph/EduGraph-Queries/#"
+      },
+      {
         "label": "SPARQL Queries",
         "url": "https://github.com/EduGraph/EduGraph-Queries"
       }
+
     ]
   },
 
