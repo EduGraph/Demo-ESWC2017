@@ -4,7 +4,9 @@
     "description": "The StudyFinder Extension allows Web editors in HEIs to produce structured data as part of the website source code while editing study course data via the ordinary TYPO3 Backend. No additional effort or competences are needed.",
     "usecase": "Use Case Demo 2",
     "technologies":[
-     {"src": "images/typo3logo.png", "name": "TYPO3"}],
+     {"src": "images/typo3logo.png", "name": "TYPO3"},
+     {"src": "images/JSON-LD.png", "name": "JSON-LD"}
+    ],
     "links": [
       {
         "label": "Demo site",
