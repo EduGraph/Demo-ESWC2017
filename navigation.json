@@ -5,7 +5,7 @@
     "usecase": "Use Case Demo 2",
     "technologies":[
      {"src": "images/typo3logo.png", "name": "TYPO3"},
-     {"src": "images/JSON-LD.png", "name": "JSON-LD"}
+     {"src": "images/JSON_LD.png", "name": "JSON-LD"}
     ],
     "links": [
       {
